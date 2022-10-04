@@ -1,0 +1,21 @@
+%btn-style {
+    margin-top: 20%;
+    margin-left: 4%;
+    margin-bottom: 2%;
+    width: 100px;
+    height: 50px;
+    background-color:blueviolet;
+    border: none;
+    color: white;
+
+    &:hover {
+        background-color: whitesmoke;
+        color: black;
+    }
+}
+%card-style{
+    margin-right: 5%;
+    border: 2px solid black;
+    width: 550px;
+    height: 320px auto;
+}

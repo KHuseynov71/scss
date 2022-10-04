@@ -1,0 +1,42 @@
+#digital-marketing body button {
+  margin-top: 20%;
+  margin-left: 4%;
+  margin-bottom: 2%;
+  width: 100px;
+  height: 50px;
+  background-color: blueviolet;
+  border: none;
+  color: white;
+}
+#digital-marketing body button:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+
+#digital-marketing body .korpeartiv, #digital-marketing body .ferdi {
+  margin-right: 5%;
+  border: 2px solid black;
+  width: 550px;
+  height: 320px auto;
+}
+
+#digital-marketing body h3 {
+  padding-left: 4%;
+}
+#digital-marketing body p {
+  padding-left: 4%;
+  padding-right: 2%;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.col-6 {
+  width: 50%;
+  display: flex;
+}/*# sourceMappingURL=stlele.css.map */

@@ -1,0 +1,22 @@
+#digital-marketing {
+    body {
+        
+        .ferdi {
+            @extend %card-style;
+        }
+        .korpeartiv{
+            @extend %card-style;
+        }
+        h3 {
+            padding-left: 4%;
+        }
+        p {
+            padding-left: 4%;
+            padding-right: 2%;
+        }
+
+        button {
+            @extend %btn-style;
+        }
+    }
+}

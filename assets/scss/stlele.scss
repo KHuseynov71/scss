@@ -1,0 +1,17 @@
+@import"./partials/extend";
+
+@import"./partials/section/cards";
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+}
+
+.col-6 {
+    width: 50%;
+    display: flex;
+}
